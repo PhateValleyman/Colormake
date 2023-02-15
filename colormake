@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 #
 # Wrapper around make, to colorize it's output and pipe through less.
 # Jumps to the first gcc error that occurs during the build process.

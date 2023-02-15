@@ -18,7 +18,8 @@ The rest is documentation.
 Installation
 ------------
 
-    cp -fa colormake.pl colormake colormake-short clmake clmake-short /usr/bin/
+    cp -fa colormake.pl colormake colormake-short clmake clmake-short /data/data/com.termux/files/usr/bin/
+    cp -fa colormake.1.gz /data/data/com.termux/files/usr/share/man/man1/
 
 
 Usage
@@ -35,7 +36,7 @@ massage the output so lines do not wrap, but are otherwise the same.
 Contributing patches
 --------------------
 
-This project now lives on Github: <https://github.com/pagekite/Colormake>
+This project now lives on Github: <https://github.com/PhateValleyman/Colormake>
 
 Feel free to fork it and send pull requests.
 
@@ -43,7 +44,7 @@ Feel free to fork it and send pull requests.
 Author
 ------
 
-Bjarni R. Einarsson, <http://bre.klaki.net/>.
+PhateValleyman
 
 
 License
