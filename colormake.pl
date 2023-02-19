@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/perl
+#!/ffp/bin/perl
 #
 # colormake.pl 0.9.20140504
 #
@@ -55,7 +55,7 @@ $error_highlight =  $col_brighten;
 $SIG{INT} = \END;
 
 # read in config files: system first, then user
-for $file ("/data/data/com.termux/files/usr/share/colormake/colormake.rc", "$ENV{HOME}/.colormakerc")
+for $file ("/ffp/share/colormake/colormake.rc", "$ENV{HOME}/.colormakerc")
 {
 	unless (!-f $file or do $file)
 	{
