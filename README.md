@@ -18,8 +18,8 @@ The rest is documentation.
 Installation
 ------------
 
-    cp -fa colormake.pl colormake colormake-short clmake clmake-short /ffp/bin/
-    cp -fa colormake.1.gz /ffp/share/man/man1/
+    cp -fa colormake.pl colormake colormake-short clmake clmake-short /data/data/com.termux/files/usr/bin/
+    cp -fa colormake.1.gz /data/data/com.termux/files/usr/share/man/man1/
 
 
 Usage
